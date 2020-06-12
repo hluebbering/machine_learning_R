@@ -12,7 +12,8 @@
 Data Preprocessing in **Python** and **R**
 
 ### Part Two
-Learn how to implement the following Machine Learning Regression models:
+
+`Machine Learning Regression models:`
 
 1. Simple Linear Regression
 
@@ -25,3 +26,22 @@ Learn how to implement the following Machine Learning Regression models:
 5. Decision Tree Classification
 
 6. Random Forest Classification
+
+## Part Three
+Unlike regression where you predict a continuous number, you use classification to predict a category.
+
+`Machine Learning Classification models:`
+
+1. Logistic Regression
+
+2. K-Nearest Neighbors (K-NN)
+
+3. Support Vector Machine (SVM)
+
+4. Kernel SVM
+
+5. Naive Bayes
+
+6. Decision Tree Classification
+
+7. Random Forest Classification
