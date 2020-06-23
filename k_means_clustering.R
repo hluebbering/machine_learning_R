@@ -1,10 +1,10 @@
 # K-Means Clustering
 
-# Importing the dataset
+# Importing dataset
 dataset = read.csv('Mall_Customers.csv')
 dataset = dataset[4:5]
 
-# Splitting the dataset into the Training set and Test set
+# Splitting dataset into Training set and Test set
 # install.packages('caTools')
 # library(caTools)
 # set.seed(123)
@@ -16,7 +16,7 @@ dataset = dataset[4:5]
 # training_set = scale(training_set)
 # test_set = scale(test_set)
 
-# Using the elbow method to find the optimal number of clusters
+# Using elbow method to find optimal number of clusters
 set.seed(6)
 wcss = vector()
 for (i in 1:10) wcss[i] = sum(kmeans(dataset, i)$withinss)
@@ -27,12 +27,12 @@ plot(1:10,
      xlab = 'Number of clusters',
      ylab = 'WCSS')
 
-# Fitting K-Means to the dataset
+# Fitting K-Means to dataset
 set.seed(29)
 kmeans = kmeans(x = dataset, centers = 5)
 y_kmeans = kmeans$cluster
 
-# Visualising the clusters
+# Visualizing clusters
 library(cluster)
 clusplot(dataset,
          y_kmeans,
