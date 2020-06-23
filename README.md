@@ -45,3 +45,60 @@ Unlike regression where you predict a continuous number, you use classification 
 6. Decision Tree Classification
 
 7. Random Forest Classification
+
+
+## Part Four
+
+`Machine Learning Clustering:`
+
+1. K-Means Clustering
+
+2. Hierarchical Clustering
+
+## Part Five
+
+`Association Rule Learning:`
+
+1. Apriori
+
+2. Eclat
+
+## Part Six
+
+`Reinforcement Learning:`
+
+1. Upper Confidence Bound (UCB)
+
+2. Thompson Sampling
+
+## Part Seven
+
+`Natural Language Processing:`
+
+
+## Part Eight
+
+`Deep Learning:`
+
+1. Artificial Neural Networks
+
+2. Convolutional Neural Networks
+
+## Part Nine
+
+`Dimensionality Reduction:`
+
+1. Principal Component Analysis (PCA)
+
+2. Linear Discriminant Analysis (LDA)
+
+3. Kernel PCA
+
+## Part Ten
+
+`Model Selection & Boosting:`
+
+1. Model Selection
+
+2. XGBoost
+
