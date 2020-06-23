@@ -12,10 +12,10 @@
 
 `Eremenko, Kirill, et al. “Machine Learning A-Z (Python &amp; R in Data Science Course).” Udemy, Udemy, 17 June 2020, www.udemy.com/course/machinelearning.`
 
-### Part One
+## Part One
 Data Preprocessing in **Python** and **R**
 
-### Part Two
+## Part Two
 
 `Machine Learning Regression models:`
 
