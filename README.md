@@ -8,6 +8,10 @@
 
 <https://www.udemy.com/course/machinelearning/>
 
+*I do not own the rights to this tutorial*
+
+`Eremenko, Kirill, et al. “Machine Learning A-Z (Python &amp; R in Data Science Course).” Udemy, Udemy, 17 June 2020, www.udemy.com/course/machinelearning.`
+
 ### Part One
 Data Preprocessing in **Python** and **R**
 
