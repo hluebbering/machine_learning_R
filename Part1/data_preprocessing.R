@@ -1,7 +1,7 @@
 # Data Preprocessing
 
 # Importing dataset
-dataset = read.csv('Data.csv')
+dataset = read.csv('Part1/Data.csv')
 
 # Taking care of missing data
 dataset$Age = ifelse(is.na(dataset$Age),
