@@ -1,6 +1,6 @@
 # Simple Linear Regression
 
-dataset = read.csv('Salary_Data.csv')
+dataset = read.csv('Part2/Salary_Data.csv')
 
 library(caTools)
 set.seed(123)

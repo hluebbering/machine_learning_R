@@ -1,7 +1,7 @@
 # Multiple Linear Regression
 
 # Import Dataset
-dataset = read.csv('50_Startups.csv')
+dataset = read.csv('Part2/50_Startups.csv')
 
 # Encoding categorical data
 dataset$State = factor(dataset$State, levels = c('New York', 'California', 'Florida'), labels = c(1, 2, 3))

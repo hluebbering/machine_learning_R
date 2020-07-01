@@ -1,7 +1,7 @@
 # SVR
 
 # Import Dataset
-dataset = read.csv('Position_Salaries.csv')
+dataset = read.csv('Part2/Position_Salaries.csv')
 dataset = dataset[2:3]
 
 # Split dataset into Training set and Test set
